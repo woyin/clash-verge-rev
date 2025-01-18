@@ -55,6 +55,10 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 Refer to [Doc FAQ Page](https://clash-verge-rev.github.io/faq/windows.html)
 
+### Donation
+
+<iframe src="https://github.com/sponsors/clash-verge-rev/card" title="Sponsor clash-verge-rev" height="100" width="600" style="border: 0;"></iframe>
+
 ## Development
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
